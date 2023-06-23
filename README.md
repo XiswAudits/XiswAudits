@@ -1,5 +1,5 @@
 ### Hi there 👋
-This repository is maintained by Xisw, a company specializing in smart contract and cryptocurrency project auditing. Our team of experts conducts thorough reviews and analyses to ensure the security and reliability of your projects. Browse our repository to find detailed reports on our audits, including risk assessments and recommended solutions. ###
+This repository is maintained by Xisw, a company specializing in smart contract and cryptocurrency project auditing. Our team of experts conducts thorough reviews and analyses to ensure the security and reliability of your projects. Browse our repository to find detailed reports on our audits, including risk assessments and recommended solutions. 
 <!--
 **XiswAudits/XiswAudits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
